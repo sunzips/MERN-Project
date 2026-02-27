@@ -1,10 +1,10 @@
-# 🛒 Premium MERN E-Commerce (Household Appliances)
+# 🛒 MERN E-Commerce (Household Appliances)
 
 A sophisticated, full-fledged e-commerce platform built with the MERN stack, featuring an ultra-premium admin dashboard, real-time cart management, and advanced analytics.
 
 ## 🚀 Key Features
 
-### **Sanzeev's Analytics & QA Elite**
+### Analytics & QA Elite**
 - **Ultra-Premium Dashboard**: Real-time market analytics with glassmorphism UI.
 - **Deep Insights**: Revenue streams, order velocity, and cloud user distribution visualized via Recharts.
 - **QA Verified**: Production-ready builds with secure JWT protocols.
@@ -93,4 +93,4 @@ This will populate the database with premium household appliances and create the
     └── pages/         # Next.js Routes & Premium Layouts
 ```
 
-Developed with ❤️ as a High-Fidelity MERN Showcase.
+
