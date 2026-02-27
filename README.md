@@ -4,7 +4,7 @@ A sophisticated, full-fledged e-commerce platform built with the MERN stack, fea
 
 ## 🚀 Key Features
 
-### Analytics & QA Elite**
+### Analytics & QA Elite
 - **Ultra-Premium Dashboard**: Real-time market analytics with glassmorphism UI.
 - **Deep Insights**: Revenue streams, order velocity, and cloud user distribution visualized via Recharts.
 - **QA Verified**: Production-ready builds with secure JWT protocols.
